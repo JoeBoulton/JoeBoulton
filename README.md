@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoeBoulton
 - 👀 I’m interested in SaaS, Web Development (Full Stack / Front end)
-- 🌱 I’m currently learning ReactJS, MongoDB, NodeJS, Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joseph.boulton99@Gmail.com
 
